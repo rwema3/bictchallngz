@@ -163,6 +163,7 @@ body {
   display: inline-block;
   border-radius: 5px;
   font-weight: 700;
+  font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   transition: all .3s;
 }
