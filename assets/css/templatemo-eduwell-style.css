@@ -157,7 +157,7 @@ body {
 .main-button-gradient a {
   font-size: 13px;
   color: #00A58C;
-  background: rgb(219,138,222);
+  background: white;
   background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
   padding: 12px 30px;
   display: inline-block;
@@ -1142,7 +1142,7 @@ section.contact-us .contact-info .icon i {
   line-height: 50px;
   border-radius: 50%;
   background: white;
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background:white;
   color: #fff;
 }
 
@@ -1209,8 +1209,8 @@ section.contact-us #contact button {
   float: right;
   font-size: 13px;
   color: #fff;
-  background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: white;
+  background: white;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
