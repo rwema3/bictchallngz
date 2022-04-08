@@ -779,12 +779,14 @@ services
   text-align: center;
   padding: 50px 30px;
   margin: 15px;
+  color: white;
   transition: all .3s;
   background-image: url(../images/services-bg.png);
 }
 
 .services .item:hover {
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 0px 15px;
+  color: white;
 }
 
 .services .item .icon {
@@ -800,11 +802,13 @@ services
   margin-bottom: 15px;
   font-size: 20px;
   font-weight: 800;
+  color: white;
 }
 
 .services .owl-dots {
   text-align: center;
   margin-top: 30px;
+  color: white;
 }
 
 .services .owl-dots .owl-dot {
