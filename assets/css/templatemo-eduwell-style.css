@@ -245,9 +245,9 @@ section {
   margin-top: 10px;
   line-height: 40px;
   font-size: 28px;
-  font-weight: 50;
+  font-weight: 400;
   text-transform: capitalize;
-  color: #111;
+  color: #484545;
 }
 
 .section-heading h4 em {
