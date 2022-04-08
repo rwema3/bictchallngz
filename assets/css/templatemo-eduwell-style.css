@@ -31,7 +31,6 @@ font & reset css
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900");
 @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 /* 
 ---------------------------------------------
 reset
@@ -230,24 +229,10 @@ section {
 }
 
 .section-heading h6 {
-  position: absolute;
-  width: 158px;
-  height: 60px;
-  left: 641px;
-  top: 712px;
-  font-family: 'Allura', cursive;
-  font-family: 'Allura';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
-  line-height: 60px;
-  /* identical to box height */
-  
-  text-align: center;
-  text-decoration-line: underline;
-  
+  font-size: 13px;
+  text-transform: uppercase;
   color: #EF5C6A;
-  
+  font-weight: 600;
 }
 
 .section-heading h4 {
