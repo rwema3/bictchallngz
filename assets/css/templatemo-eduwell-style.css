@@ -784,6 +784,18 @@ services
   background-image: url(../images/services-bg.png);
 }
 
+.cardi .item {
+  border-radius: 15px;
+  text-align: center;
+  padding: 50px 30px;
+  margin: 15px;
+  color: white;
+  transition: all .3s;
+  background: rgba(239, 92, 106, 0.1);
+box-shadow: 0px 4.52863px 4.52863px rgba(0, 0, 0, 0.25);
+border-radius: 5.66079px;
+}
+
 .services .item:hover {
   box-shadow: 0px 0px 15px;
   color: white;
