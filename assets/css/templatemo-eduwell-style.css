@@ -1147,7 +1147,19 @@ section.contact-us {
 }
 
 section.contactii {
+  align-items: center;
   background-image: url(../images/join-us-bg.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+  position: relative;
+  margin-top: 15px;
+}
+
+section.contacto {
+  align-items: center;
+  background: #004137;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1251,6 +1263,22 @@ section.contact-us #contact textarea {
 }
 
 section.contact-us #contact button {
+  float: right;
+  font-size: 13px;
+  color: #fff;
+  background: #004137;
+  background: #004137;
+  padding: 12px 30px;
+  display: inline-block;
+  border-radius: 5px;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: all .3s;
+  transition: all .3s;
+  border: none;
+  outline: none;
+}
+section.contactii #contact button {
   float: right;
   font-size: 13px;
   color: #fff;
