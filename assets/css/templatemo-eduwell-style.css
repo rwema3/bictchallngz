@@ -169,8 +169,9 @@ body {
 }
 
 .main-button-gradient a:hover {
-  background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: white;
+  background: white;
+  color: #006253;
   opacity: 0.9;
 }
 
