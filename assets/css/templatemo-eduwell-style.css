@@ -229,10 +229,24 @@ section {
 }
 
 .section-heading h6 {
-  font-size: 13px;
-  text-transform: uppercase;
-  color: #7a7a7a;
-  font-weight: 600;
+  position: absolute;
+  width: 158px;
+  height: 60px;
+  left: 641px;
+  top: 712px;
+  
+  font-family: 'Allura';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  /* identical to box height */
+  
+  text-align: center;
+  text-decoration-line: underline;
+  
+  color: #EF5C6A;
+  
 }
 
 .section-heading h4 {
