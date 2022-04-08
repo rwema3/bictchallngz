@@ -780,6 +780,7 @@ services
   padding: 50px 30px;
   margin: 15px;
   transition: all .3s;
+  background-image: url(../images/services-bg.png);
 }
 
 .services .item:hover {
