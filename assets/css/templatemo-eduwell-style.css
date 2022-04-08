@@ -1146,6 +1146,15 @@ section.contact-us {
   position: relative;
 }
 
+section.contactii {
+  background-image: url(../images/contact-bg.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+  position: relative;
+}
+
 section.contact-us:after {
   position: absolute;
   content: '';
