@@ -1118,7 +1118,7 @@ section.contact-us:after {
   left: 0px;
   top: 60px;
   width: 267px;
-  height: 396px;
+  height: 400px;
   z-index: 1;
 }
 
@@ -1141,7 +1141,7 @@ section.contact-us .contact-info .icon i {
   text-align: center;
   line-height: 50px;
   border-radius: 50%;
-  background: rgb(219,138,222);
+  background: white;
   background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
   color: #fff;
 }
