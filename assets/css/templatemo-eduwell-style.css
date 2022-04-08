@@ -167,6 +167,12 @@ body {
   text-transform: uppercase;
   transition: all .3s;
 }
+.main-button-gradient img {
+  width: 30px;
+  height: 40px;
+
+}
+
 
 .main-button-gradient a:hover {
   background: white;
