@@ -1152,6 +1152,7 @@ section.contactii {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  align-content: center;
   padding: 0px;
   position: relative;
   margin-top: 15px;
